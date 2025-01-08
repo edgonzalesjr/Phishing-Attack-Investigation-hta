@@ -45,7 +45,7 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 <p align="center">
 <img src="https://imgur.com/UuCnNj7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>The process that executed the initial stage 1 payload. It uses the Windows-native binary designed to execute Microsoft HTML Application (HTA) files.</b>
+<b>The process that executed the initial stage 1 payload. It used the Windows-native binary designed to execute Microsoft HTML Application (HTA) files.</b>
 <br/>
 
 <p align="center">
@@ -55,15 +55,15 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/XI6LNoG.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The Stage 1 payload established a persistence mechanism by using PowerShell to create a scheduled task.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/c22PC5M.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The implanted file has initiated a potential C2 connection to an external IP address.</b>
 <br/>
 
 <p align="center">
