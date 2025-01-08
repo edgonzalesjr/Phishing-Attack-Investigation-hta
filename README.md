@@ -31,15 +31,15 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 ## Perform Analysis
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/jPetkxh.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Login to the SIEM.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/Y6ETQ2Z.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>Set the timeline to match the time of incident.</b>
 <br/>
 
 <p align="center">
