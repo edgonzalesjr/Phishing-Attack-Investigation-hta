@@ -67,27 +67,31 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/Ep7vo2R.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>.</b>
+<b>The process used by the attacker to execute a UAC bypass.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/qHX0Kh4.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The attacker attempted to download a tool for credential dumping and dump the credentials on the machine.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/JxH5bto.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The attacker successfully dumped the credentials and used the credentials to gain access to another machine.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/CRBjCEB.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/975jErp.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/nXBARKL.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The attacker attempted to enumerate and access the file share.</b>
 <br/>
 
 <p align="center">
