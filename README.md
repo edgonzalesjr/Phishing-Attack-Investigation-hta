@@ -85,25 +85,37 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/CRBjCEB.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/CyTdSdv.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/975jErp.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/SpCSsU7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/nXBARKL.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/plhrAKG.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>The attacker attempted to enumerate and access the file share.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/evReFnE.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The attacker used the new credentials to move laterally.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/AqI0DsB.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The attacker then dumped the hashes in the second machine.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/bIy7IKj.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The attacker gained access to the domain controller and attempted to dump the hashes.</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/enZbOvl.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>The attacker attempted to download another remote file to execute ransomware.</b>
 <br/>
 
 ## Outcome
