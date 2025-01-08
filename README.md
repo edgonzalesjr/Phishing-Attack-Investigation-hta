@@ -43,15 +43,15 @@ Analyze a phishing email with a malicious .hta (HTML application) attachment, in
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/UuCnNj7.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The process that executed the initial stage 1 payload. It uses the Windows-native binary designed to execute Microsoft HTML Application (HTA) files.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/pPfS0TL.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>.</b>
+<b>The implanted file was eventually used and executed by the stage 1 payload. It used the xcopy.exe to deliver another file review.dat.</b>
 <br/>
 
 <p align="center">
